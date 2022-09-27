@@ -1,4 +1,4 @@
-## Eu sou a Fabiana Maruqes Penteado 
+## Eu sou a Fabiana Marques Penteado 
 
 - 🌱 Estudando Java e Angular 
 - 😄 Nome: Fabiana
